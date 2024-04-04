@@ -1,7 +1,6 @@
 #
 # File: __init__.py
 #
-
 from project0_py.helpers import *
 
 ## top-level submission file
@@ -23,7 +22,7 @@ def f(a, b):
 	'''
 
 	## Your code goes here
-
+	c = a + b
 	##
 
 	return c
